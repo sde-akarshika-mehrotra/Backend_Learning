@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sde-akarshika-mehrotra/Backend_Learning#readme",
   "dependencies": {
+    "ejs": "^6.0.1",
     "express": "^5.2.1"
   }
 }
