@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sde-akarshika-mehrotra/Backend_Learning/issues"
   },
-  "homepage": "https://github.com/sde-akarshika-mehrotra/Backend_Learning#readme"
+  "homepage": "https://github.com/sde-akarshika-mehrotra/Backend_Learning#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
